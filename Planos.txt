@@ -1,0 +1,10 @@
+Adaptar ARMAS para outro tema
+
+Pessoa -> Instrutor
+       -> Administrador
+       -> Aluno
+
+Treino (classe com atributos, que se relaciona a alunos)
+
+Plano (classe com atributos, que se relaciona a alunos, algo como frequencia do pagamento, frequencia do aluno na academia, forma de pagamento)
+

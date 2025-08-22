@@ -1,10 +1,13 @@
-Adaptar ARMAS para outro tema
-
 Pessoa -> Instrutor
        -> Administrador
        -> Aluno
 
 Treino (classe com atributos, que se relaciona a alunos)
 
-Plano (classe com atributos, que se relaciona a alunos, algo como frequencia do pagamento, frequencia do aluno na academia, forma de pagamento)
+Plano (classe com atributos, que se relaciona a alunos e que são criadas pelo adm, algo como frequencia do pagamento, frequencia do aluno na academia, forma de pagamento)
 
+Exercicios (peso, repeticoes, séries, tipo de exercicio)
+
+Academia (seria pra redes com mais de uma filial, endereco (todos os dados), observações?)
+
+AvaliacaoFisica (instrutor e aluno envolvidos, e stats da avaliacao)

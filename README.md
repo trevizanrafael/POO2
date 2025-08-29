@@ -93,4 +93,4 @@ Os requisitos não funcionais definem os critérios de qualidade do sistema.
 | RNF09 | A interface de administração deve permitir gerenciar dados (alunos, instrutores, planos) sem necessidade de conhecimento técnico avançado. | BAIXA  |
 
 ---
-*Documento de requisitos elaborado por Rafael Moraes Trevizan [cite: 4] em 22/08/2025[cite: 5].*
+*Documento de requisitos elaborado por Rafael Moraes Trevizan em 22/08/2025.*
